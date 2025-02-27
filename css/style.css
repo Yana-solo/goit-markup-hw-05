@@ -456,6 +456,9 @@ button {
 .fot-icon:focus {
   background-color: #31d0aa;
 }
+.social-footer {
+  margin-right: 80px;
+}
 .sub-text {
   margin-bottom: 16px;
   font-weight: 500;
@@ -500,6 +503,11 @@ button {
 }
 .sub-icon {
   margin-left: 16px;
+  fill: #fff;
+  position: relative;
+  top: 50%;
+  right: 24px;
+  transform: translateY(-50%);
 }
 /* #endregion footer */
 
